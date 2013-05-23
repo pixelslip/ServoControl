@@ -1,0 +1,12 @@
+{
+    "name": "Accelerometre-Arduino",
+    "version": "0.0.0",
+    "description": "Control acceleromtre with smartphone",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "johnny-five": "latest",
+        "jade": "latest"
+    },
+    "author": "pixelslip"
+}
