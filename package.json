@@ -1,12 +1,28 @@
 {
-    "name": "Accelerometre-Arduino",
-    "version": "0.0.0",
-    "description": "Control acceleromtre with smartphone",
-    "dependencies": {
-        "socket.io": "latest",
-        "express": "latest",
-        "johnny-five": "latest",
-        "jade": "latest"
-    },
-    "author": "pixelslip"
+  "name": "Accelerometre-Arduino",
+  "version": "0.1.0",
+  "description": "Control servo-motor with your smartphone's accelerometre",
+  "homepage": "https://github.com/pixelslip/ServoControl",
+  "dependencies": {
+    "socket.io": "1.2.0",
+    "express": "*",
+    "johnny-five": "0.8.20",
+    "jade": "1.7.0"
+  },
+  "author": "Pixelslip <pixelslip@gmail.com> (http://pixelslip.be)",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixelslip/ServoControl.git"
+  },
+  "keywords": [
+    "arduino",
+    "johnny-five",
+    "nodejs",
+    "accelerometre"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixelslip/ServoControl/issues"
+  }
 }
