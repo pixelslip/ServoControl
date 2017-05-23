@@ -14,6 +14,3 @@ Use your phone and type the ip address of your server in the app. Move your phon
 
 - [ ] Create graphical interface for mobile client
 - [ ] Add tests
-
-For more informations:
-[Read my blog](http://www.pixelslip.be/lab/arduino)
